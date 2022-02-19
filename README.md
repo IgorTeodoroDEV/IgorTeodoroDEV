@@ -6,15 +6,15 @@ Tenho 17 anos, desde criança fui apaixonado em computador e hoje posso me torne
 
 <p align='center'>
     <a href="https://github.com/CoderGustavo/">
-        <img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="#" />
     </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/gustavo-ornaghi-antunes-713ba91b3/">
+    <a href="#">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedIn&logoColor=white" />
     </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/gusta_ornaghi/">
+    <a href="#">
         <img src="https://img.shields.io/badge/Instagram-1ca0f1?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.tiktok.com/@codergustavo">
+    <a href="#">
         <img src="https://img.shields.io/badge/TikTok-be2edd?style=for-the-badge&logo=tiktok&logoColor=white" />
     </a>&nbsp;&nbsp;&nbsp;
 </p>
