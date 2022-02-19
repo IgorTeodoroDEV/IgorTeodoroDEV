@@ -6,7 +6,7 @@ Tenho 17 anos, desde criança fui apaixonado em computador e hoje posso me torne
 
 <p align='center'>
     <a href="https://github.com/CoderGustavo/">
-        <img src="#" />
+
     </a>&nbsp;&nbsp;&nbsp;
     <a href="#">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedIn&logoColor=white" />
